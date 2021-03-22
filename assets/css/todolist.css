@@ -82,3 +82,8 @@ li:hover span {
     width: 40px;
     opacity: 1;
 }
+
+.complete {
+    text-decoration: line-through;
+    color: gray;
+}
